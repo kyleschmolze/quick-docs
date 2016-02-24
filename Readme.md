@@ -13,5 +13,6 @@ The blue icon opens a fresh Google Doc, the green one a fresh Google Sheet, and 
 3. Open the folder you just downloaded (in Finder).
 4. Drag the `docs.html` file to your Bookmarks bar.
 5. Drag the `sheets.html` file to your Bookmarks bar.
+5. Drag the `forms.html` file to your Bookmarks bar.
 6. For each new bookmark: Right-click on it, then click edit, then delete the "Name" field. (You may also need to click it once to get the favicon to show up.)
 7. Enjoy!
