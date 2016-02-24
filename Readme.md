@@ -3,7 +3,7 @@ Create single-click shortcuts to create new documents and spreadsheets in Google
 
 ![Screenshot](preview.png)
 
-The blue icon opens a fresh Google Doc, and the green one opens a fresh Google Sheet.
+The blue icon opens a fresh Google Doc, the green one a fresh Google Sheet, and the purple a blank Google Form.
 
 ### How to use
 
